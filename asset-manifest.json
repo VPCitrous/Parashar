@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Parashar/static/css/main.9b96b382.css",
+    "main.js": "/Parashar/static/js/main.a4e603c7.js",
+    "static/js/787.63908c7c.chunk.js": "/Parashar/static/js/787.63908c7c.chunk.js",
+    "index.html": "/Parashar/index.html",
+    "main.9b96b382.css.map": "/Parashar/static/css/main.9b96b382.css.map",
+    "main.a4e603c7.js.map": "/Parashar/static/js/main.a4e603c7.js.map",
+    "787.63908c7c.chunk.js.map": "/Parashar/static/js/787.63908c7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b96b382.css",
+    "static/js/main.a4e603c7.js"
+  ]
+}
