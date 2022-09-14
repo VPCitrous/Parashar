@@ -1,2 +1,1 @@
-# Parashar
-For learning.
+
